@@ -1,0 +1,119 @@
+.fg-secondary a {
+  color: #D98353;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.top-links-support {
+  text-align: right;
+  a.current {
+    color: #D98353;
+  }
+}
+
+nav.owit-menu .menu-wrapper ul li a.current {
+  color: #D98353;
+}
+
+.welcome-message {
+  background-color: #1C5B86;
+}
+
+.sponsor-slider img {
+  height: 50px;
+}
+
+.groups-listing {
+  .groups-search input {
+    padding: 8px 12px;
+  }
+  .result-details {
+    h4 {
+      font-size: 13px;
+    }
+    p {
+      font-size: 11px;
+    }
+    a {
+      color: #D98353;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+  .avatar {
+    border: 2px #D98353 solid;
+  }
+}
+
+.find-matches-search {
+  .avatar {
+    border: 2px #D98353 solid;
+  }
+  .member-search-submit {
+    padding: 8px 12px;
+    color: #D98353;
+  }
+}
+
+.blog-entries-item {
+  h3 {
+    font-size: 13px;
+  }
+  .blog-item-meta {
+    font-size: 13px;
+    color: #D98353;
+  }
+  .ss-item-caption a {
+    color: #D98353;
+  }
+}
+
+.sign-in-section {
+  h2 {
+    font-size: 27px;
+  }
+  input, a.btn {
+    border: 1px rgba(73, 72, 72, 0.5) solid;
+  }
+  input[type=submit], a.btn {
+    color: #D98353;
+    font-weight: bold;
+  }
+}
+
+#footer {
+  background: #72798c url('../images/footer-background.jpg') center center;
+  color: white;
+  .footer-social {
+    border-bottom: 1px white solid;
+    ::-webkit-input-placeholder, :-moz-placeholder, ::-moz-placeholder, :-ms-input-placeholder {
+      color: white;
+    }
+    .subscribe-form {
+      float: right;
+    }
+    .social-links li a, .subscribe-email, .subscribe-submit {
+      border: 1px white solid;
+    }
+    .subscribe-title {
+      line-height: 1.25em;
+    }
+  }
+  .site-footer {
+    border-top: 1px white solid;
+    p {
+      font-size: 10px;
+      color: white;
+    }
+  }
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.floatLeft {
+  float: left;
+}

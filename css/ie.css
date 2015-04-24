@@ -1,0 +1,14 @@
+/*
+ * IE Only Stylesheet
+ */
+body.msie .owit-find-matches .owit-select {
+    margin-right: 12px;
+}
+body.msie .recent-groups .avatar {
+    padding: 0px;
+ border: 7px solid #b84179;
+}
+body.msie .owit-slider .col-md-6 .owit-select {
+    width: 104px!important;
+ 	min-width: auto;
+}

@@ -1,0 +1,80 @@
+.fg-secondary a {
+  color: #D98353; }
+  .fg-secondary a:hover {
+    text-decoration: underline; }
+
+.top-links-support {
+  text-align: right; }
+  .top-links-support a.current {
+    color: #D98353; }
+
+nav.owit-menu .menu-wrapper ul li a.current {
+  color: #D98353; }
+
+.welcome-message {
+  background-color: #1C5B86; }
+
+.sponsor-slider img {
+  height: 50px; }
+
+.groups-listing .groups-search input {
+  padding: 8px 12px; }
+.groups-listing .result-details h4 {
+  font-size: 13px; }
+.groups-listing .result-details p {
+  font-size: 11px; }
+.groups-listing .result-details a {
+  color: #D98353; }
+  .groups-listing .result-details a:hover {
+    text-decoration: underline; }
+.groups-listing .avatar {
+  border: 2px #D98353 solid; }
+
+.find-matches-search .avatar {
+  border: 2px #D98353 solid; }
+.find-matches-search .member-search-submit {
+  padding: 8px 12px;
+  color: #D98353; }
+
+.blog-entries-item h3 {
+  font-size: 13px; }
+.blog-entries-item .blog-item-meta {
+  font-size: 13px;
+  color: #D98353; }
+.blog-entries-item .ss-item-caption a {
+  color: #D98353; }
+
+.sign-in-section h2 {
+  font-size: 27px; }
+.sign-in-section input, .sign-in-section a.btn {
+  border: 1px rgba(73, 72, 72, 0.5) solid; }
+.sign-in-section input[type=submit], .sign-in-section a.btn {
+  color: #D98353;
+  font-weight: bold; }
+
+#footer {
+  background: #72798c url("../images/footer-background.jpg") center center;
+  color: white; }
+  #footer .footer-social {
+    border-bottom: 1px white solid; }
+    #footer .footer-social ::-webkit-input-placeholder, #footer .footer-social :-moz-placeholder, #footer .footer-social ::-moz-placeholder, #footer .footer-social :-ms-input-placeholder {
+      color: white; }
+    #footer .footer-social .subscribe-form {
+      float: right; }
+    #footer .footer-social .social-links li a, #footer .footer-social .subscribe-email, #footer .footer-social .subscribe-submit {
+      border: 1px white solid; }
+    #footer .footer-social .subscribe-title {
+      line-height: 1.25em; }
+  #footer .site-footer {
+    border-top: 1px white solid; }
+    #footer .site-footer p {
+      font-size: 10px;
+      color: white; }
+
+.uppercase {
+  text-transform: uppercase; }
+
+.floatLeft {
+  float: left; }
+
+/*# sourceMappingURL=adjust.css.map */
