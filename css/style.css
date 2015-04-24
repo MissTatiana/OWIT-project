@@ -1389,7 +1389,8 @@ textarea:focus.input-transparent {
   .blog-entries .blog-entries-item .ss-item-thumb img {
     width: 100%; }
   .blog-entries .blog-entries-item .ss-item-title {
-    border: 1px solid #dbe4ed; }
+    border: 1px solid #dbe4ed;
+    height: 85px; }
   .blog-entries .blog-entries-item .ss-item-desc {
     border: 1px solid #dbe4ed;
     border-top: 0; }
